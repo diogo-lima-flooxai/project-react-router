@@ -2,7 +2,7 @@ import './Content.css'
 
 const Content = props => (
   <main className="Content">
-    Component Content
+    Componente Content
   </main>
 )
 
